@@ -74,7 +74,9 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-	
+	border: 2px solid red;
+	padding: 25px;
+	margin: 1%;
 }
 
 #text-intro {
