@@ -34,7 +34,10 @@ p {
 }
 
 .album-art {
-
+	float: left;
+	border: 2px solid red;
+	padding: 15px;
+	margin: 2%;
 }
 
 .clear {
@@ -46,7 +49,8 @@ p {
 }
 
 .record-label {
-
+	color: red;
+	font-style: italic;
 }
 
 .track-list {
@@ -54,11 +58,11 @@ p {
 }
 
 #about-photo {
-	float: left;
+	
 }
 
 #copyright {
-
+	color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
@@ -66,5 +70,5 @@ p {
 }
 
 #text-intro {
-	color: red;
+	
 }
