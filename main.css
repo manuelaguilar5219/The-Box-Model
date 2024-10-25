@@ -80,5 +80,8 @@ p {
 }
 
 #text-intro {
-	
+	color: red;
+	border: 1px solid red;
+	padding: 15px;
+	background-color: rgb(54, 54, 54)
 }
