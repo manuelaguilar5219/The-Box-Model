@@ -30,7 +30,7 @@ h3 {
 }
 
 p {
-
+	
 }
 
 .album-art {
@@ -54,7 +54,7 @@ p {
 }
 
 #about-photo {
-
+	float: left;
 }
 
 #copyright {
@@ -62,9 +62,9 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	
 }
 
 #text-intro {
-	
+	color: red;
 }
